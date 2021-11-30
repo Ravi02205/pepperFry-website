@@ -1,0 +1,16 @@
+.Header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto ;
+    width: 80vw;
+}
+.navbar-list{
+    display: flex;
+}
+
+.search-box{
+    width: 550px;
+    align-self: left;
+    padding: 10px;
+}
